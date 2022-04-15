@@ -126,8 +126,7 @@ From the above plot we can see the cross-validated curve (red-dotted line) and t
 
 # Scoreboard
 
-Using the "scoring mechanism" for the Russian Housing Kaggle competition, fill
-in these cells:
+Using the "scoring mechanism" for the Russian Housing Kaggle competition:
 
 
 Method                | Training Score  | Kaggle Score
